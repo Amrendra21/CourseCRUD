@@ -1,8 +1,4 @@
 📚 Spring Boot Course Management CRUD Application
-https://img.shields.io/badge/Spring%2520Boot-4.0.1-green
-https://img.shields.io/badge/Java-25-blue
-https://img.shields.io/badge/License-MIT-yellow
-https://img.shields.io/badge/Database-H2-lightgrey
 
 A complete full-stack Spring Boot application for Course Management with CRUD operations, featuring both REST API and modern web UI.
 
